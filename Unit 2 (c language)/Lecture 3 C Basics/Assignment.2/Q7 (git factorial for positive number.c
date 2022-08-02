@@ -1,8 +1,8 @@
 /*A2_Q7 (git factorial for positive number )
  * main.c
  *
- *  Created on: ??þ/??þ/????
- *      Author: ayman
+ *  Created on:20/7/2022
+ *      Author:Ayman-Gamal
  */
 #include"stdio.h"
 void main(){

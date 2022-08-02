@@ -1,7 +1,7 @@
 /*A1-Q1 (print string)
  * main.c
  *
- *  Created on: ??þ/??þ/????
+ *  Created on: 18/7/2022
  *      Author: Ayman_Gamal
  */
 #include "stdio.h"

@@ -1,8 +1,8 @@
 /* sum of two matrix in order 2*2 get elements from user and put it in sum matrix
  * main.c
  *
- *  Created on: ??þ/??þ/????
- *      Author: Ayman Gamal
+ *  Created on: 24/7/2022
+ *      Author: Ayman-Gamal
  */
 #include<stdio.h>
 int main(){

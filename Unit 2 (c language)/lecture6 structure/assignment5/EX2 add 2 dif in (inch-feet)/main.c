@@ -1,3 +1,8 @@
+/*EX2 add 2 different numbers in (inch-feet)
+ *
+ *   Created on: 30/7/2022
+ *      Author: Ayman-Gamal
+ */
 #include <stdio.h>
 #include <stdlib.h>
 struct SDustance {

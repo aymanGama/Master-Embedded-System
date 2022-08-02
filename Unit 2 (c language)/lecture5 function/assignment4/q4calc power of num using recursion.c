@@ -1,3 +1,8 @@
+ /*q4 calculation power of num using recursion
+ *
+ *   Created on: 27/7/2022
+ *      Author: Ayman-Gamal
+ */
 #include <stdio.h>      //calc power of integer number using recursion
 #include <stdlib.h>
 int power();

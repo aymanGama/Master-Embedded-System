@@ -1,8 +1,8 @@
 /* get average for n numbers  entered by user
  * main.c
  *
- *  Created on: ??ş/??ş/????
- *      Author: ayman
+ *  Created on: 24/7/2022
+ *      Author: Ayman-Gamal
  */
 #include<stdio.h>
 int main(){

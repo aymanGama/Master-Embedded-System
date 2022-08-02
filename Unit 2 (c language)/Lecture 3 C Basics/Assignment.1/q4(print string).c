@@ -1,8 +1,8 @@
 /*(A1)(Q4)((product two  numbers )
  * main.c
  *
- *  Created on: ??þ/??þ/????
- *      Author: ayman
+ *  Created on:18/7/2022
+ *      Author: Ayman-Gamal
 */
 
 

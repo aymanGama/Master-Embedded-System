@@ -1,3 +1,8 @@
+ /*q2 factorial using recursion
+ *
+ *   Created on: 27/7/2022
+ *      Author: Ayman-Gamal
+ */
 #include <stdio.h>
 #include <stdlib.h>
 int factorial ();

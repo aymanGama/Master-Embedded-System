@@ -1,3 +1,8 @@
+/*EX1 store information for student
+ *
+ *   Created on: 30/7/2022
+ *      Author: Ayman-Gamal
+ */
 #include <stdio.h>
 #include <stdlib.h>
 struct Sstudent {

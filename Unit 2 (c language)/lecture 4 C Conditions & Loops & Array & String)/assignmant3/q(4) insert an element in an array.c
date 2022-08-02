@@ -1,6 +1,7 @@
 /* A3Q4 insert an element in an array
  * main.c
- *      Author: ayman
+ *  Created on: 24/7/2022
+ *      Author: Ayman-Gamal
  */
 #include <stdio.h>
 int main(){                               // define variable

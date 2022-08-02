@@ -1,3 +1,9 @@
+ /*q1 get prime between 2 number using function
+ *
+ *   Created on: 27/7/2022
+ *      Author: Ayman-Gamal
+ */
+
 #include <stdio.h>
 #include <stdlib.h>
 int prime();           //prototype

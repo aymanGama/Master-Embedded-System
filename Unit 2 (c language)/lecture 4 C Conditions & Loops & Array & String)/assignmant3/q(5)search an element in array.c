@@ -1,6 +1,7 @@
 /* A3Q5 search an element in array
  * main.c
- *      Author: Ayman
+ *  Created on: 24/7/2022
+ *      Author: Ayman-Gamal
  */
 #include<stdio.h>
 int main (){

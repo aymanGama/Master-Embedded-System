@@ -1,8 +1,8 @@
 /* A2_Q3 (chose the bigger number) using if condition
  * main.c
  *
- *  Created on: ??þ/??þ/????
- *      Author: ayman
+*  Created on:20/7/2022
+ *      Author:Ayman-Gamal
  */
 #include <stdio.h>
 int main ()

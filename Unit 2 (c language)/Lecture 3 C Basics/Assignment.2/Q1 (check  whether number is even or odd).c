@@ -1,7 +1,7 @@
 /*A2_Q1 (check  whether number is even or odd)
  * main.c
- *  Created on: ??þ/??þ/????
- *      Author: ayman
+ *  Created on:20/7/2022
+ *      Author:Ayman-Gamal
  */
 #include "stdio.h"
 int main (){

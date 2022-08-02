@@ -1,7 +1,7 @@
 /* A2Q2 (check alphabet is vowel or constant)
  * main.c
- *  Created on: ??þ/??þ/????
- *      Author: Ayman
+*  Created on:20/7/2022
+ *      Author:Ayman-Gamal
  */
 #include <stdio.h>
 void main (){

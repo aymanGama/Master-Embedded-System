@@ -1,8 +1,8 @@
 /* (A1)(q5)(find  ASCII value of character )
  * main.c
  *
- *  Created on: ??þ/??þ/????
- *      Author: ayman
+ *  Created on: 18/7/2022
+ *      Author: Ayman-Gamal
  */
 #include <stdio.h>
 void main (){

@@ -1,3 +1,8 @@
+/*Ex3 add complix num using struct and function
+ *
+ *   Created on: 30/7/2022
+ *      Author: Ayman-Gamal
+ */
 #include <stdio.h>
 #include <stdlib.h>
 struct Scomplex

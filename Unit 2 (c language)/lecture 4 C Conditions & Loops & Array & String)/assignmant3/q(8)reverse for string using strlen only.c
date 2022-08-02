@@ -1,5 +1,7 @@
 /*A3Q8 reverse for string using strlen only from library
- *     Author: Ayman
+ *
+ *   Created on: 24/7/2022
+ *      Author: Ayman-Gamal
  */
 #include <stdio.h>
 #include<string.h>

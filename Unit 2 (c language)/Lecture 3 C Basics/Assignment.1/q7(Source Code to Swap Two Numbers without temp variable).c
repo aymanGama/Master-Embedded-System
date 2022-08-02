@@ -1,8 +1,8 @@
 /*A1_Q7 (Source Code to Swap Two Numbers without temp variable)
  * main.c
  *
- *  Created on: ??þ/??þ/????
- *      Author: ayman
+ *  Created on: 18/7/2022
+ *      Author: Ayman-Gamal
  */
 # include "stdio.h"
 void main (){

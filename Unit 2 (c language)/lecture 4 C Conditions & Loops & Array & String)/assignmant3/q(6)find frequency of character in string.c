@@ -1,6 +1,7 @@
 /*A3Q6 find frequency of character in string
  * maon.c
- *      Author: Ayman
+ *  Created on: 24/7/2022
+ *      Author: Ayman-Gamal
  */
 #include <stdio.h>
 int main(){

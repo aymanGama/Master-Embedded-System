@@ -2,7 +2,7 @@
 
  * main.c
  *
- *  Created on: ??þ/??þ/????
+ *  Created on:18/7/2022
  *      Author: Ayman Gamal
  */
 #include "stdio.h"
