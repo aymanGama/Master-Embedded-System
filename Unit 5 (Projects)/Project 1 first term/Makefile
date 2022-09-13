@@ -8,7 +8,7 @@ OBJ= $(SRC:.c=.o)
 AS= $(wildcard *.s)
 ASOBJ= $(AS:.s=.o)
 
-all: learn_in_depth_cortex_m3.bin
+all: project1_first_term.bin
 
 %.o: %.s
 	$(CC)as.exe $(CFLAGS) $< -o $@ 
@@ -16,10 +16,10 @@ all: learn_in_depth_cortex_m3.bin
 %.o: %.c
 	$(CC)gcc.exe  $(CFLAGS) $(INCS) -c $< -o $@
 
-learn_in_depth_cortex_m3.elf: $(ASOBJ) $(OBJ) 
-	$(CC)ld.exe -T linker_script.ld $(ASOBJ) $(OBJ) $(INCS) -o learn_in_depth_cortex_m3.elf -Map=map_file
+project1_first_term.elf: $(ASOBJ) $(OBJ) 
+	$(CC)ld.exe -T linker_script.ld $(ASOBJ) $(OBJ) $(INCS) -o project1_first_term.elf -Map=map_file
 
-learn_in_depth_cortex_m3.bin: learn_in_depth_cortex_m3.elf
+project1_first_term.bin: project1_first_term.elf
 	$(CC)objcopy.exe -O binary   $< $@
 
 clean_all:

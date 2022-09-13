@@ -108,7 +108,7 @@ LOAD mainalg.o
 LOAD main.o
 LOAD driver.o
 LOAD alarmmonitor.o
-OUTPUT(learn_in_depth_cortex_m3.elf elf32-littlearm)
+OUTPUT(project1_first_term.elf elf32-littlearm)
 
 .debug_info     0x00000000      0x513
  .debug_info    0x00000000      0x16d startup.o
@@ -150,17 +150,17 @@ OUTPUT(learn_in_depth_cortex_m3.elf elf32-littlearm)
  .debug_line    0x00000167       0x99 driver.o
  .debug_line    0x00000200       0x4a alarmmonitor.o
 
-.debug_str      0x00000000      0x1eb
- .debug_str     0x00000000      0x106 startup.o
+.debug_str      0x00000000      0x21e
+ .debug_str     0x00000000      0x139 startup.o
+                                0x16d (size before relaxing)
+ .debug_str     0x00000139       0x44 mainalg.o
+                                0x13b (size before relaxing)
+ .debug_str     0x0000017d       0x21 main.o
+                                0x122 (size before relaxing)
+ .debug_str     0x0000019e       0x4c driver.o
+                                0x14c (size before relaxing)
+ .debug_str     0x000001ea       0x34 alarmmonitor.o
                                 0x13a (size before relaxing)
- .debug_str     0x00000106       0x44 mainalg.o
-                                0x108 (size before relaxing)
- .debug_str     0x0000014a       0x21 main.o
-                                 0xef (size before relaxing)
- .debug_str     0x0000016b       0x4c driver.o
-                                0x119 (size before relaxing)
- .debug_str     0x000001b7       0x34 alarmmonitor.o
-                                0x107 (size before relaxing)
 
 .comment        0x00000000       0x11
  .comment       0x00000000       0x11 startup.o
