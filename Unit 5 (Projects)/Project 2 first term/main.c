@@ -2,7 +2,7 @@
   * main.c
  *
  *  Created on: Sep 17, 2022
- *      Author: DR-Mosaad
+ *      Author: Ayman_Gamal
  */
 #include "student.h"
 guide_t helper ;
