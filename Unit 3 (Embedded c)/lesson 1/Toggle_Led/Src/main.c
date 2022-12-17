@@ -32,7 +32,7 @@ typedef union
 		vuint32_t  pin_13:1;
 	}S_PIN;
 }U_PIN_t;
-volatile U_PIN_t * P_PIN =(volatile U_PIN_t *) GPIO_ODR
+volatile U_PIN_t * P_PIN =(volatile U_PIN_t *) GPIO_ODR;
 int main(void)
 {
 	RCC_APB2ENR |= 1<<2 ;
